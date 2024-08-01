@@ -1,0 +1,5 @@
+package eu.kolohnat;
+
+public enum City {
+    OSTRAVA, ANDOVER_UNITED_KINGDOM, HELSINKY, CANBERRA, BUENOS_AIRES, CARDIFF
+}
